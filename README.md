@@ -1,1 +1,1 @@
-# Larry-s-Array-algo
+# Larry-s-Array-algo It checks whether a list of numbers can be sorted in ascending order using a special rotation operation on any three consecutive elements. The function larrysArray (currently empty) will contain the logic to decide if sorting is possible and return "YES" if it can be done, or "NO" if not.
